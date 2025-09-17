@@ -42,9 +42,8 @@ The analysis focuses on **yearly and monthly trends**, **average order values**,
 
 ## 📌 How to Use
 1. Download the Excel files from the repository.  
-2. Open `sales_performance_analysis.xlsx` in Excel.  
-3. Explore the **PivotTables** and dashboard sheets to view insights.  
-4. Use the filters or slicers in the dashboard to analyze specific months, years, or product categories.
+2. Explore the **PivotTables** and dashboard sheets to view insights.  
+3. Use the filters or slicers in the dashboard to analyze specific months, years, or product categories.
 
 ---
 
