@@ -1,15 +1,15 @@
-
 # Sales Performance Analysis
 
 ## 📊 Project Overview
-This project analyzes sales performance data using Excel.  
-It includes data cleaning, transformation, and visualization using **PivotTables** and dashboards.  
-The analysis focuses on **yearly and monthly trends**, **average order values**, and **top-performing products**.
+Analyzing sales performance data using **Excel and Power BI** to generate insights on trends, top products, customer behavior, and revenue.
 
 ---
 
 ## 🗂 Files in This Repository
-- https://docs.google.com/spreadsheets/d/1PGZ1lAi4yT7okDri2uiMk4hUEuSO-GKqe3E0KBvNQKk/edit?usp=sharing → Final analysis with PivotTables and dashboard  
+- **Excel Analysis:** PivotTables, charts, and cleaned data  
+- **Power BI Dashboard:**
+- ![image alt](sales_pi(img).pdf)  
+- Visual representation of sales trends, top products, and customer analysis  
 
 ---
 
@@ -20,43 +20,38 @@ The analysis focuses on **yearly and monthly trends**, **average order values**,
 - **Average Order Value (AOV):** 3,762,248.64 IDR  
 - **Top Product Category:** Furniture  
 - **Top Sub-Product:** Bookcases  
-- Discounts are moderate (~4.8% of total sales), maintaining healthy margins.  
-- High AOV indicates **bulk or high-value orders**.
+- Discounts are moderate (~4.8%), maintaining healthy margins.  
+- High AOV indicates **bulk or high-value orders**.  
 
 ---
 
 ## 📈 Analysis Highlights
-- Yearly and monthly performance trends.  
-- Comparison of net value vs total sales.  
-- Identification of **top products** driving revenue.  
-- Insights on customer purchasing patterns.  
+- Yearly and monthly sales trends  
+- Comparison of net value vs total sales  
+- Identification of top products and sub-products  
+- Customer purchasing patterns  
+- Discount impact on revenue  
 
 ---
 
 ## 🛠 Tools Used
-- **Microsoft Excel** (PivotTables, Charts, Data Cleaning)  
-- **Google Sheets** (initial data handling, optional)  
-- **GitHub** (version control and project sharing)  
-
----
-
-## 📌 How to Use
-1. Download the Excel files from the repository.  
-2. Explore the **PivotTables** and dashboard sheets to view insights.  
-3. Use the filters or slicers in the dashboard to analyze specific months, years, or product categories.
+- **Microsoft Excel** → PivotTables, Charts, Data Cleaning  
+- **Power BI** → Interactive dashboards, visual analytics  
 
 ---
 
 ## 🚀 Future Improvements
-- Automate data cleaning using **Python** or **Power Query**.  
-- Build an interactive **Power BI dashboard** for dynamic visualization.  
-- Include predictive analytics to forecast monthly sales trends.
+- Automate data cleaning using **Power Query**  
+- Add predictive analytics and forecasting in Power BI  
+- Include more interactive visuals and drill-throughs  
 
 ---
 
 ## 💡 Project Objective
-The purpose of this project is to demonstrate skills in:
+Demonstrate skills in:  
 - Data cleaning and preparation  
-- PivotTable analysis  
-- Deriving actionable business insights from sales data
+- PivotTable and Excel analysis  
+- Interactive dashboards in Power BI  
+- Deriving actionable business insights from sales data  
+
 
