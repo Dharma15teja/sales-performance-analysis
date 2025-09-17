@@ -9,9 +9,7 @@ The analysis focuses on **yearly and monthly trends**, **average order values**,
 ---
 
 ## 🗂 Files in This Repository
-- `data/raw_sales_data.xlsx` → Original dataset (before cleaning)  
-- `cleaned_data/sales_cleaned.xlsx` → Cleaned and formatted data  
-- `analysis/sales_performance_analysis.xlsx` → Final analysis with PivotTables and dashboard  
+- https://docs.google.com/spreadsheets/d/1PGZ1lAi4yT7okDri2uiMk4hUEuSO-GKqe3E0KBvNQKk/edit?usp=sharing → Final analysis with PivotTables and dashboard  
 
 ---
 
