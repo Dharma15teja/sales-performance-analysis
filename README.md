@@ -16,7 +16,6 @@ Analyzing sales performance data using **Excel and Power BI** to generate insigh
 ## 🔍 Key Insights
 - **Total Sales:** 2,065,474,505 IDR  
 - **Total Net Value:** 1,966,403,051 IDR  
-- **Total Orders:** 549  
 - **Average Order Value (AOV):** 3,762,248.64 IDR  
 - **Top Product Category:** Furniture  
 - **Top Sub-Product:** Bookcases  
