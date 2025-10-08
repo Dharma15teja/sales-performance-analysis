@@ -7,8 +7,7 @@ Analyzing sales performance data using **Excel and Power BI** to generate insigh
 
 ## 🗂 Files in This Repository
 - **Excel Analysis:** PivotTables, charts, and cleaned data  
-- **Power BI Dashboard:**
-- ![Sales Dashboard](sales_pi(img).pdf)  
+- **Power BI Dashboard:** 
 - Visual representation of sales trends, top products, and customer analysis  
 
 ---
